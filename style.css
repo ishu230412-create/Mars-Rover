@@ -1,0 +1,12 @@
+body{
+    background-image: url("mars.gif");
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+h1,h4{
+    color: white !important;
+}
+#myCanvas{
+    border: 10px ridge white;
+}
